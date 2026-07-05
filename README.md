@@ -59,6 +59,6 @@ Swiggy-Analytics/
 - Slicers — Filter by Area, Price, Rating
 
 ## 👨‍💻 Author
-- Name: [Aapka Naam]
+- Name: Bhupati Sahu
 - Degree: MCA
 - Skills: Python | SQL | Power BI | Excel | Tableau
